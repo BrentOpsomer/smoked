@@ -1,1 +1,4 @@
-DirectoryIndex home.html
+DirectoryIndex home
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^/home
+RewriteRule ^(.*)$ /home/$1 [L,R=301]
