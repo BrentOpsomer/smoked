@@ -25,7 +25,7 @@
       <nav>
         <ul class="menu">
           <div class="logo"><img src="/fotos/smokedLogo.png"></div>
-          <li class="item current"><a href="home">HOME</a></li>
+          <li class="item current"><a href="index">HOME</a></li>
           <li class="item has-submenu">
             <ul class="submenu">
             </ul>
