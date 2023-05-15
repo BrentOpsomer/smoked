@@ -31,6 +31,13 @@
 
 }
 
+.afmetingen {
+    width: 300px;
+    height: 450px;
+    border-radius: 10px;
+    border: solid #515151 2px;
+}
+
 .infoTitel {
     color: #ffffff;
     text-align: center;
