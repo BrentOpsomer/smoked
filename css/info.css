@@ -33,7 +33,6 @@
 
 .afmetingen {
     width: 300px;
-    height: 450px;
     border-radius: 10px;
     border: solid #515151 2px;
 }
@@ -130,6 +129,5 @@ p.infoScroll::-webkit-scrollbar-thumb {
 @media screen and (max-width: 400px) {
  .afmetingen {
     width: 250px;
-    height: 400px;
   }
 }
