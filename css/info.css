@@ -127,3 +127,9 @@ p.infoScroll::-webkit-scrollbar-thumb {
   }
 
 }
+@media screen and (max-width: 400px) {
+ .afmetingen {
+    width: 250px;
+    height: 400px;
+  }
+}
